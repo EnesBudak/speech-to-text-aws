@@ -1,14 +1,27 @@
 # speech-to-text-aws
 
-.env folder 
+# testqr
+
+## Project setup
+```
+npm install
+```
+
+### Compiles 
+```
+npm run start
+```
+
+
+### .ENV FOLDER
+
 DB_URL=
 TOKEN_SECRET=
 PORT=
 ACCESS_KEY=
 SECRET_ACCESS_KEY=
 BUCKET_NAME=
+```
 
 
-server start : npm start 
 
-client start : npm run serve
